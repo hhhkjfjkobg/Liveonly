@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
-#EXTINF:-1 tvg-logo="https://domain1.com/logos/channel1.png" group-title="News",Channel 1
-https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+#EXTINF:-1 tvg-logo="https://domain1.com/logos/channel1.png" group-title="News",HUB 4
+https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
