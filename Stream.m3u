@@ -6,8 +6,6 @@
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 #EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20241011098963/en/2269728/22/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg" group-title="Zubayer Op", Willow Sports
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Zubayer Op",CAZE TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#KODIPROP:inputstream.adaptive.license_key=75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20241011098963/en/2269728/22/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg" group-title="Zubayer Op", Kandy Royals vs Dambulla Sixers
+https://otte.cache.aiv-cdn.net/iad-nitro/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
