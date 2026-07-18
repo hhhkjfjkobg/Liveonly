@@ -11,3 +11,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-14952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841900281020x576.jpg" group-title="Zubayer Op", Du Plessis vs Usman | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.44e67257-0fb3-4ad5-8e84-f26524f1ffd8/2/HERO-16X9/en-US._UR1920,1080_SX1080_FMjpg_.jpeg" group-title="Zubayer Op", MLC FINAL
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd
