@@ -16,3 +16,5 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.44e67257-0fb3-4ad5-8e84-f26524f1ffd8/2/HERO-16X9/en-US._UR1920,1080_SX1080_FMjpg_.jpeg" group-title="Zubayer Op", MLC FINAL
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="Zubayer Op", Saturday Night's Main Event - 19 Jul 2026 [ENG] - WWE
+https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784461359~acl=/*~id=46276688450536973486549216150409~hmac=1907fffbae9b8ec862d177713cc175f0217e1d2d201b30e5e3b80fbf249be16f
