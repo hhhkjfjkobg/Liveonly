@@ -9,12 +9,3 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40
 #KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/LPL_2023_Logo.png" group-title="Zubayer Op", Lanka Premier League
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-14952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841900281020x576.jpg" group-title="Zubayer Op", Du Plessis vs Usman | UFC 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/UFC_Du_P1807/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=de7227c55bdcfa1e4881a33ea8569f1e-1784418600123
-#EXTINF:-1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.44e67257-0fb3-4ad5-8e84-f26524f1ffd8/2/HERO-16X9/en-US._UR1920,1080_SX1080_FMjpg_.jpeg" group-title="Zubayer Op", MLC FINAL
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="Zubayer Op", Saturday Night's Main Event - 19 Jul 2026 [ENG] - WWE
-https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784461359~acl=/*~id=46276688450536973486549216150409~hmac=1907fffbae9b8ec862d177713cc175f0217e1d2d201b30e5e3b80fbf249be16f
